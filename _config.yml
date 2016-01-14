@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ferleal.github.io
+title: Coding tutorial
+email: fernandoleal@gmail.com
+author: Fernando Leal
+description: Collections of tutorials
+paginate: 3
+google_analytics: 
